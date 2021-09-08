@@ -4,7 +4,7 @@
 
 This is a dashboard app built with Bootstrap and Plotly for the front-end, and deployed using Flask and Heroku. The data is publicly available on the [World Bank Website](https://data.worldbank.org/indicator), under the 'Climate change' indicator. Data is downloaded using the World Bank API and visualized via Plotly.
 
-## Link to Webapp [https://world-bank-dashboard-api.herokuapp.com](https://world-bank-dashboard-api.herokuapp.com)
+## Link to Webapp [https://climatechangewbapp.herokuapp.com](https://climatechangewbapp.herokuapp.com/)
 
 
 ## Prerequisites
